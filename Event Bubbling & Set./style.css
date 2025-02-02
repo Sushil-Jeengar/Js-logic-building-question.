@@ -1,0 +1,19 @@
+.grandfather {
+  text-align: center;
+  background-color: rgb(137, 183, 223);
+  border: 2px solid black;
+  padding: 15px;
+  margin: 15px;
+}
+.father {
+  background-color: rgb(235, 235, 113);
+  border: 2px solid black;
+  padding: 15px;
+  margin: 15px;
+}
+.child {
+  background-color: beige;
+  border: 2px solid black;
+  padding: 15px;
+  margin: 15px;
+}
